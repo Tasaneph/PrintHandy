@@ -6,22 +6,37 @@
     <title>Terms of Service – PrintHandy</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
+            font-family: sans-serif;
+            margin: 40px;
             line-height: 1.6;
         }
-        h1, h2 {
-            color: #333;
+        .lang-toggle {
+            margin-bottom: 20px;
         }
-        hr {
-            margin: 2rem 0;
+        .lang-toggle button {
+            margin-right: 10px;
+            padding: 5px 15px;
+            font-size: 14px;
+        }
+        .section {
+            display: none;
+        }
+        .section.active {
+            display: block;
+        }
+        h1, h2, h3 {
+            margin-top: 30px;
         }
     </style>
 </head>
 <body>
 
+    <div class="lang-toggle">
+    <button onclick="toggleLang('en')">English</button>
+    <button onclick="toggleLang('pl')">Polski</button>
+</div>
+
+<div id="en" class="section active">
     <h1>Terms of Service – PrintHandy</h1>
     <p><strong>Last updated:</strong> July 26, 2025</p>
 
@@ -55,8 +70,9 @@
     <h2>8. Contact</h2>
     <p>If you have any questions, contact us at: <strong>printhandy3d@gmail.com</strong></p>
 
-    <hr>
-
+    </div>
+    
+    <div id="pl" class="section">
     <h1>Regulamin – PrintHandy</h1>
     <p><strong>Data aktualizacji:</strong> 26 lipca 2025</p>
 
@@ -89,6 +105,14 @@
 
     <h2>8. Kontakt</h2>
     <p>W razie pytań, prosimy o kontakt: <strong>printhandy3d@gmail.com</strong></p>
+</div>
+
+<script>
+    function toggleLang(lang) {
+        document.querySelectorAll('.section').forEach(el => el.classList.remove('active'));
+        document.getElementById(lang).classList.add('active');
+    }
+</script>
 
 </body>
 </html>
