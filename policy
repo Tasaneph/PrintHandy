@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - PrintHandy</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        .lang-toggle {
+            margin-bottom: 20px;
+        }
+        .lang-toggle button {
+            margin-right: 10px;
+            padding: 5px 15px;
+            font-size: 14px;
+        }
+        .section {
+            display: none;
+        }
+        .section.active {
+            display: block;
+        }
+        h1, h2, h3 {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="lang-toggle">
+    <button onclick="toggleLang('en')">English</button>
+    <button onclick="toggleLang('pl')">Polski</button>
+</div>
+
+<div id="en" class="section active">
+    <h1>Privacy Policy for PrintHandy</h1>
+    <p><strong>Last updated: July 09, 2025</strong></p>
+    <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
+    <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
+
+    <h2>Interpretation and Definitions</h2>
+    <h3>Interpretation</h3>
+    <p>Words with capital letters have meanings defined under the following conditions.</p>
+    <h3>Definitions</h3>
+    <ul>
+        <li><strong>Application</strong> refers to PrintHandy.</li>
+        <li><strong>Company</strong> (referred to as "the Company", "We", "Us", or "Our") refers to PrintHandy.</li>
+        <li><strong>Country</strong> refers to: Poland</li>
+        <li><strong>Device</strong> means any device that can access the Service.</li>
+        <li><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</li>
+        <li><strong>Service</strong> refers to the Application.</li>
+        <li><strong>You</strong> means the individual accessing the Service.</li>
+        <!-- More definitions can be added as needed -->
+    </ul>
+
+    <h2>Collecting and Using Your Personal Data</h2>
+    <h3>Types of Data Collected</h3>
+    <p><strong>Personal Data:</strong> While using Our Service, We may collect certain personally identifiable information including Usage Data.</p>
+
+    <h3>Usage Data</h3>
+    <p>We may collect information such as IP address, browser type, time and date of visit, etc.</p>
+
+    <h3>Use of Your Personal Data</h3>
+    <p>We may use Your Personal Data to:</p>
+    <ul>
+        <li>Provide and maintain the Service</li>
+        <li>Manage Your Account</li>
+        <li>Contact You</li>
+        <li>Comply with legal obligations</li>
+        <!-- etc. -->
+    </ul>
+
+    <h3>Retention and Transfer</h3>
+    <p>Your data may be stored or transferred internationally in accordance with this policy.</p>
+
+    <h3>Delete Your Data</h3>
+    <p>You may request deletion of your data by contacting us at <a href="mailto:printhandy3d@gmail.com">printhandy3d@gmail.com</a>.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>We do not knowingly collect data from children under 13.</p>
+
+    <h2>Changes to this Policy</h2>
+    <p>We may update this policy. Please review it periodically.</p>
+
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:printhandy3d@gmail.com">printhandy3d@gmail.com</a></p>
+</div>
+
+<div id="pl" class="section">
+    <h1>Polityka prywatności aplikacji PrintHandy</h1>
+    <p><strong>Ostatnia aktualizacja: 9 lipca 2025</strong></p>
+    <p>Ta Polityka Prywatności opisuje nasze zasady i procedury dotyczące zbierania, wykorzystywania i ujawniania Twoich danych podczas korzystania z Usługi oraz informuje Cię o Twoich prawach do prywatności i o tym, jak prawo Cię chroni.</p>
+    <p>Korzystamy z Twoich danych osobowych, aby świadczyć i ulepszać Usługę. Korzystając z Usługi, wyrażasz zgodę na gromadzenie i wykorzystywanie informacji zgodnie z niniejszą Polityką Prywatności.</p>
+
+    <h2>Interpretacja i definicje</h2>
+    <h3>Interpretacja</h3>
+    <p>Słowa pisane wielką literą mają znaczenia określone w poniższych warunkach.</p>
+    <h3>Definicje</h3>
+    <ul>
+        <li><strong>Aplikacja</strong> odnosi się do PrintHandy.</li>
+        <li><strong>Firma</strong> („Firma”, „My”, „Nas” lub „Nasza”) odnosi się do PrintHandy.</li>
+        <li><strong>Kraj</strong> odnosi się do: Polska</li>
+        <li><strong>Urządzenie</strong> oznacza każde urządzenie, które może uzyskać dostęp do Usługi.</li>
+        <li><strong>Dane osobowe</strong> to informacje dotyczące zidentyfikowanej lub możliwej do zidentyfikowania osoby fizycznej.</li>
+        <li><strong>Usługa</strong> odnosi się do Aplikacji.</li>
+        <li><strong>Ty</strong> oznacza osobę korzystającą z Usługi.</li>
+    </ul>
+
+    <h2>Zbieranie i wykorzystywanie danych osobowych</h2>
+    <h3>Rodzaje zbieranych danych</h3>
+    <p><strong>Dane osobowe:</strong> Podczas korzystania z Usługi możemy zbierać dane umożliwiające identyfikację, w tym dane dotyczące użytkowania.</p>
+
+    <h3>Dane dotyczące użytkowania</h3>
+    <p>Możemy zbierać takie informacje jak adres IP, typ przeglądarki, czas i data wizyty itd.</p>
+
+    <h3>Wykorzystanie Twoich danych osobowych</h3>
+    <p>Możemy wykorzystywać Twoje dane osobowe do:</p>
+    <ul>
+        <li>Świadczenia i utrzymania Usługi</li>
+        <li>Zarządzania Twoim kontem</li>
+        <li>Kontaktowania się z Tobą</li>
+        <li>Spełniania wymogów prawnych</li>
+    </ul>
+
+    <h3>Przechowywanie i przekazywanie danych</h3>
+    <p>Twoje dane mogą być przechowywane lub przekazywane międzynarodowo zgodnie z niniejszą polityką.</p>
+
+    <h3>Usuwanie Twoich danych</h3>
+    <p>Możesz poprosić o usunięcie swoich danych, kontaktując się z nami pod adresem: <a href="mailto:printhandy3d@gmail.com">printhandy3d@gmail.com</a>.</p>
+
+    <h2>Prywatność dzieci</h2>
+    <p>Nie zbieramy świadomie danych od dzieci poniżej 13 roku życia.</p>
+
+    <h2>Zmiany w polityce</h2>
+    <p>Możemy aktualizować tę politykę. Sprawdzaj ją okresowo.</p>
+
+    <h2>Kontakt</h2>
+    <p>Email: <a href="mailto:printhandy3d@gmail.com">printhandy3d@gmail.com</a></p>
+</div>
+
+<script>
+    function toggleLang(lang) {
+        document.querySelectorAll('.section').forEach(el => el.classList.remove('active'));
+        document.getElementById(lang).classList.add('active');
+    }
+</script>
+
+</body>
+</html>
